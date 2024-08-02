@@ -1,0 +1,41 @@
+Univariate Analysis in EDA: Main and Core Uses with Suitable Data Types
+
+**1. Summarizing Data:**
+
+   - Main Use: Provides a summary of the central tendency, dispersion, and shape of a single variable's distribution.
+   - Suitable Data Types: 
+     - **Numerical Data**: Continuous or discrete numbers (e.g., age, income, temperature).
+     - **Categorical Data**: Categories or labels (e.g., gender, product category).
+
+**2. Detecting Outliers:**
+
+   - **Main Use**: Identifies unusual or extreme values that differ significantly from other observations.
+   - **Suitable Data Types**: 
+     - **Numerical Data**: Continuous or discrete numbers where outliers can significantly impact analysis.
+
+**3. Understanding Data Distribution:**
+   - **Main Use**: Examines the frequency and pattern of data points within a single variable.
+   - **Suitable Data Types**: 
+     - **Numerical Data**: Continuous or discrete numbers to determine distribution shape (e.g., normal, skewed).
+     - **Categorical Data**: Categories or labels to understand frequency distribution.
+
+**4. Identifying Data Quality Issues:**
+   - **Main Use**: Checks for missing values, data entry errors, and inconsistencies.
+   - **Suitable Data Types**: 
+     - **Numerical Data**: Continuous or discrete numbers to identify missing or inconsistent entries.
+     - **Categorical Data**: Categories or labels to detect missing or incorrect categories.
+
+**5. Visualizing Data:**
+   - **Main Use**: Creates visual representations to represent the distribution of a single variable.
+   - **Suitable Data Types**: 
+     - **Numerical Data**: Continuous or discrete numbers visualized with histograms, box plots, density plots.
+     - **Categorical Data**: Categories or labels visualized with bar charts, pie charts.
+     - **Ordinal Data**: Ranked categories visualized to highlight order (e.g., customer satisfaction ratings).
+
+ Conclusion
+
+Univariate analysis is essential in EDA for understanding the properties of a single variable, detecting outliers, identifying data quality issues, and summarizing and visualizing data. This type of analysis is suitable for:
+
+- **Numerical Data**: For summarizing distributions, detecting outliers, and visualizing data.
+- **Categorical Data**: For understanding frequency distributions and ensuring data quality.
+- **Ordinal Data**: For examining the distribution and order of ranked data.
